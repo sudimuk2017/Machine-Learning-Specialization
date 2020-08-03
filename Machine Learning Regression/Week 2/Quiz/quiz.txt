@@ -1,0 +1,9 @@
+1) y = w0w1 + log(w1)x
+2) False
+3) might
+4) they stay the same
+5) an algorithm for minimaizing/maximaizing 
+6) estimate model parameters
+7) [3]&[4]
+8) 250,000
+9) O(D3), O(ND3), O(ND2) , O(D3 + ND2)----->

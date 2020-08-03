@@ -1,0 +1,13 @@
+1) [3]
+
+2) [3]
+
+3) Large bandwidth
+
+4) True
+
+5) False
+
+6) 1 second
+
+7) 5 features

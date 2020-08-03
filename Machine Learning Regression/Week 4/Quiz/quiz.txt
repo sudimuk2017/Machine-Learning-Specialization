@@ -1,0 +1,17 @@
+1) [1]  ...>
+
+2) high bias, low variance
+
+3) [3]
+
+4) impossibel to tell  ...>
+
+5) True
+
+6) False
+
+7) LN.Cost(N-1, D)
+
+8) About 3 years
+
+9) k=36

@@ -1,0 +1,7 @@
+1) [1000, 2000]
+2) The value of the slope parameter
+3) False
+4) 52
+5) -482761.38
+6) 3022.07549
+7) d

@@ -1,0 +1,25 @@
+1) False
+
+2) Model 2
+
+3) Model 1 --->
+
+4) Model 2
+
+5) c
+
+6) a
+
+7) False
+
+8) High Bias
+
+9) High Variance
+
+10) Overfitted
+
+11) Minimizing Validation Error
+
+12) [1], [2] ---->
+
+13) [2], [5] ---->

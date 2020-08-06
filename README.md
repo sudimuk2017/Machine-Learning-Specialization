@@ -5,6 +5,8 @@
 In This Repository, the solution of the 4 course-specialization of Machine Learning that has been made in 2016 by the husband and wife couple **Carlos Guestrin** and **Emily Fox**, previously of Carnegie Mellon and now of the University of Washington. And here is a [link](https://www.coursera.org/specializations/machine-learning) to the specialization.
 
 
+## Specialization Certificate:  [Verified by Coursera](https://www.coursera.org/account/accomplishments/specialization/MCHEURNG5TLR)
+
 
 ## About This Specialization
 
@@ -17,7 +19,17 @@ The Specialization consists of 4 courses:
 - [Course (3)](https://www.coursera.org/learn/ml-classification): Machine Learning: Classification.
 - [Course (4)](https://www.coursera.org/learn/ml-clustering-and-retrieval): Machine Learning: Clustering & Retrieval.
 
+**The solutions have been uploaded for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).**
+
 I've come away frustrated that the courses emphasized the use of **Graphlab Create**, a closed source software from Guestrin’s company Turi (formerly Dato) over open source libraries like Scikit-Learn. It’s true that Graphlab was not a requirement to complete the coursework, but using an open source solution such as **Scikit-Learn** added a significant level of commitment given that the lessons had been tailored with starter code to Graphlab.
 
 #### [NOTE]:
 This specialization was meant to be a six-courses specialization, but due to some problems they decided to make it a four-course specialization. I think one of the problems is that Turi was sold to Apple for 200 million dollars according to the [geekwire](https://www.geekwire.com/2016/exclusive-apple-acquires-turi-major-exit-seattle-based-machine-learning-ai-startup/) site.
+
+ Just for reference and I hope you can star⭐ me.
+  
+  ## Contact me
+  
+  Gmail: murindanyi@gmail.com
+  
+  Linkin: [MyLinkin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)

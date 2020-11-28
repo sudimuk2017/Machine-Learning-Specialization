@@ -25,7 +25,7 @@ I've come away frustrated that the courses emphasized the use of **Graphlab Crea
 #### [NOTE]:
 This specialization was meant to be a six-courses specialization, but due to some problems they decided to make it a four-course specialization. I think one of the problems is that Turi was sold to Apple for 200 million dollars according to the [geekwire](https://www.geekwire.com/2016/exclusive-apple-acquires-turi-major-exit-seattle-based-machine-learning-ai-startup/) site.
 
- Just for reference and I hope you can star⭐ me
+ **Just for reference and I hope you can star⭐ me**
   
   ## Contact me
   
